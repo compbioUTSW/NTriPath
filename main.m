@@ -290,9 +290,3 @@ for m_ni = 1:K1,
       disp(m_strdisp(1:end-1));
     end
 end                         
-                         
-                        
-
-
- 
-
