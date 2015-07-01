@@ -1,6 +1,6 @@
 # NTriPath
 
-This software implements the network regularized non-negative tri-matrix factorization method which integrates somatic mutation data with human protein-protein interaction networks and a pathways database. This code was written by Written by Sunho Park.(sunho.park@utsouthwestern.edu). If you have any questions, please feel free to ask Sunho Park. 
+This software implements the network regularized non-negative tri-matrix factorization method which integrates somatic mutation data with human protein-protein interaction networks and a pathways database. This code was written by Sunho Park.(sunho.park@utsouthwestern.edu). If you have any questions, please feel free to ask Sunho Park. 
 
 ===========
 
