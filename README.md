@@ -7,14 +7,23 @@ Four types of data were used as input for our algorithm. First, we generated a b
 If you have any questions, please send an email via compbio.utsw@gmail.com.
 
 ===========
+We provide two matlab scripts. One is "simulation_fig_1.m" that uses synthetic dataset to provide clear logic of NTriPath and another is "main.m" that uses real TCGA dataset.
 
-Simple steps to run this Matlab code
+Simple steps to run NTriPath with synthetic dataset ("simulation_fig_1.m" script) :
 -------
 - Open the Matlab 
 - Check if the main file and data directory are in your working directory 
 - Set the path in Matlab
-- Type main in the command window or click the run button in the editor tap 
+- Type simulation_fig_1.m in the command window or click the run button in the editor tap 
+- 
 
+Simple steps to run NTriPath with TCGA mutation dataset ("main.m" script) :
+-------
+- Open the Matlab 
+- Check if the main file and data directory are in your working directory 
+- Set the path in Matlab
+- Type main.m in the command window or click the run button in the editor tap 
+- By default, main.m script uses KEGG pathway database as reference pathway database.
 Reference 
 -------
 - [Computational Network Biology Lab @UTSW](http://www.taehyunlab.org/#!ntripath/c8c5)
